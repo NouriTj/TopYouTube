@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">TopYouTube</string>
+    <string name="countries_code" translatable="false"> DZ AR AU AT AZ BH BY BE BA BR BG CA CL CO HR CZ DK EG EE FI FR GE DE GH GR HK HU IS IN ID IQ IE IT JM JP JO KZ KE KW LV LB LY LT LU MK MY MX ME MA NP NL NZ NG NO OM PK PE PH PL PT PR QA RO RU SA SN RS SG SK SI ZA KR ES LK SE CH TW TZ TH TN TR UG UA AE GB US YE ZW ZW</string>
+    <string name="country_activity_title">Choose a country</string>
+    <string name="title_activity_country">CountryActivity</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading...</string>
+    <string name="action_settings">Settings</string>
+</resources>
